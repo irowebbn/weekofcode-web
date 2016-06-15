@@ -1,6 +1,6 @@
 ## What is this?
 
-This is sample code from the [Awesome Inc U Basic Web Crash Course](http://www.awesomeincu.com/courses/basicweb-crash/).
+This is sample code from the [Awesome Inc U Basic Web Crash Course](http://www.awesomeincu.com/courses/basicweb-crash/), also used in our [Week of Code](http://www.awesomeincu.com/weekofcode/).
 
 ## What do I need to get started?
 
@@ -13,7 +13,7 @@ We recommend using the following:
 
 ## What will I be able to do with this?
 
-The sample code contains a basic website for a business. You can reskin it to make a site for a person, cause, or organization.
+The sample code contains a basic website for my favorite animal. You can reskin it to make a site for a person, cause, or organization.
 
 ## License
 
